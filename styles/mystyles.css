@@ -1,0 +1,30 @@
+#background-video {
+    /*position: fixed;
+    right: 0;
+    bottom: 0;*/
+    width: 100%;
+    /*min-width: auto;
+    min-height: auto;
+    left: 0;
+    height: 300px;
+    z-index: 99;*/
+}
+
+ul {
+    color:whitesmoke;
+}
+ol {
+    color: whitesmoke;
+}
+
+button {
+    color: white;
+    font-display:unset;
+}
+
+    
+
+a:hover{
+    color: gray;
+}
+
